@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-core
+ollama
+chromadb
+pypdf # 如果你需要加载 PDF 文件
+python-dotenv # 用于管理环境变量（可选，但推荐）
